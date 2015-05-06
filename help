@@ -1,0 +1,7 @@
+Help:
+
+commend:
+	init menu:	if you add a new menu, you should use it to init_menu.
+	delete article:	adelete article to the menu list.
+	add article:	add the new article.
+	quit:		quit the program.

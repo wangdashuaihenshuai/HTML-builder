@@ -1,0 +1,20 @@
+$menu_main
+	Home
+$menu
+	Home
+$menu_end
+$menu
+	Linux
+$menu
+	Android
+$menu
+	Git
+$menu
+	Java
+$menu
+	编程的二三事
+$menu_end
+$article
+1
+2
+$article_end

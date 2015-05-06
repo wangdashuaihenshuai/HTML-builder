@@ -1,0 +1,195 @@
+$title
+elementary——不仅仅是最漂亮的linux
+$times
+2014年12月27日
+$include
+Linux
+Home
+$include_end
+$short_article
+Elementary OS是ubuntu的衍生版本,现在最新基于ubuntu 14.ubuntu能干的他都行,界面都很漂亮,动画效果也赏心悦目,可以用快捷键控制窗口大小,可以很方便的排布窗口,弥补了windows笔记本触摸屏不能多点触控控制窗口的缺点.
+$short_article_end
+$main_article
+<article class="markdown-body">
+	<h1>
+		<a id="user-content-elementary-os--" class="anchor" href="#elementary-os--" aria-hidden="true">
+			<span class="octicon octicon-link"></span>
+		</a>
+		elementary os
+	</h1>
+
+	<p>
+		之前为了编译
+		<code>android内核</code>
+		，于是开始摆
+		<code>linux</code>
+		系统,最开始弄得是
+		<code>ubuntu</code>
+		，硬盘安装的双系统，这样想用那个就用哪个，
+		<code>windws</code>
+		上的ps还是得用，用了一个月。对于programmer来说，
+		<code>linux</code>
+		系统还是很好用的，
+		<code>gcc</code>
+		<code>ruby</code>
+		<code>python</code>
+		都是系统自带的，加上一个
+		<code>sublime</code>
+		基本上就ok了。
+		<a href="http://elementaryos.cn/">elementary os</a>
+		是我偶然发现的，没啥别的就是图个好看，安装也和ubuntu没啥区别，本来就是基于ubuntu系统的，听说是一群设计师设计的。这个系统就是给那些喜欢好看系统，编程人员用的，当然用来提高逼格也是妥妥的。
+	</p>
+
+	<h2>
+		<a id="user-content-界面" class="anchor" href="#%E7%95%8C%E9%9D%A2" aria-hidden="true">
+			<span class="octicon octicon-link"></span>
+		</a>
+		界面
+	</h2>
+
+	<p>
+		<a href="imag/1/surface1.png" target="_blank">
+			<img src="imag/1/surface1.png" alt="surface" style="max-width:100%;"></a>
+	</p>
+
+	<p>
+		<a href="imag/1/surface2.png" target="_blank">
+			<img src="imag/1/surface2.png" alt="surface" style="max-width:100%;"></a>
+	</p>
+
+	<p>
+		<a href="imag/1/surface3.png" target="_blank">
+			<img src="imag/1/surface3.png" alt="surface" style="max-width:100%;"></a>
+	</p>
+
+	<h2>
+		<a id="user-content-优点" class="anchor" href="#%E4%BC%98%E7%82%B9" aria-hidden="true">
+			<span class="octicon octicon-link"></span>
+		</a>
+		优点
+	</h2>
+
+	<ul>
+		<li>
+			开机速度快，动画流畅，
+			<code>mac os</code>
+			的系统风格。
+		</li>
+		<li>另外键盘快捷键也很好用，设置窗口快捷键，切程序，多窗口很好用。</li>
+		<li>
+			兼容
+			<code>ubuntu</code>
+			的所有程序。
+		</li>
+	</ul>
+
+	<h2>
+		<a id="user-content-缺点" class="anchor" href="#%E7%BC%BA%E7%82%B9" aria-hidden="true">
+			<span class="octicon octicon-link"></span>
+		</a>
+		缺点
+	</h2>
+
+	<ul>
+		<li>缺点就是bug多，问题是出了bug，系统还会提示，不过bug没影响平常使用。</li>
+		<li>我安装的是64位的，安装搜狗输入法费了好大力气。</li>
+		<li>注销系统以后，再进入的时候就会出现卡死的情况。</li>
+	</ul>
+
+	<h2>
+		<a id="user-content-安装" class="anchor" href="#%E5%AE%89%E8%A3%85" aria-hidden="true">
+			<span class="octicon octicon-link"></span>
+		</a>
+		安装
+	</h2>
+
+	<p>
+		<a href="http://pan.baidu.com/wap/link?uk=3724898507&amp;shareid=4225101290&amp;third=0">elementary os 下载</a>
+		安装过程可以搜索ubuntu/windows双系统硬盘安装。
+	</p>
+
+	<h2>
+		<a id="user-content-应用" class="anchor" href="#%E5%BA%94%E7%94%A8" aria-hidden="true">
+			<span class="octicon octicon-link"></span>
+		</a>
+		应用
+	</h2>
+
+	<h3>
+		<a id="user-content-sublime" class="anchor" href="#sublime" aria-hidden="true">
+			<span class="octicon octicon-link"></span>
+		</a>
+		sublime
+	</h3>
+
+	<p>
+		<a href="imag/1/sublime.png" target="_blank">
+			<img src="imag/1/sublime.png" alt="sublime" style="max-width:100%;"></a>
+	</p>
+
+	<p>
+		这货好用的很，轻量级编程神器。直接去
+		<a href="http://www.sublimetext.com/2">sublime官网</a>
+		下载，双击安装。安装前最好先去把系统里的更新更新一下，linux安装东西就是依赖很麻烦，没完没了的。
+	</p>
+
+	<h3>
+		<a id="user-content-chrome" class="anchor" href="#chrome" aria-hidden="true">
+			<span class="octicon octicon-link"></span>
+		</a>
+		chrome
+	</h3>
+
+	<p>
+		<a href="imag/1/chrome.png" target="_blank">
+			<img src="imag/1/chrome.png" alt="chrome" style="max-width:100%;"></a>
+	</p>
+
+	<p>
+		<code>chrome</code>
+		以前喜欢用是因为简洁，而且google账号能同步标签，到哪里都可以用。只是可惜后来被墙了，万恶的
+		<code>GREAT WALL</code>
+		。不过还是不影响我用。
+		<a href="http://pan.baidu.com/wap/link?shareid=3950903206&amp;uk=2298878614&amp;third=0&amp;dir=%2Fchrome&amp;page=1">chrome下载</a>
+	</p>
+
+	<h3>
+		<a id="user-content-搜狗" class="anchor" href="#%E6%90%9C%E7%8B%97" aria-hidden="true">
+			<span class="octicon octicon-link"></span>
+		</a>
+		搜狗
+	</h3>
+
+	<p>
+		<a href="imag/1/sougou.png" target="_blank">
+			<img src="imag/1/sougou.png" alt="sougou" style="max-width:100%;"></a>
+	</p>
+
+	<p>
+		不多说
+		<a href="http://pinyin.sougou.com/linux/?r=pinyin">搜狗下载</a>
+	</p>
+
+	<h3>
+		<a id="user-content-vim" class="anchor" href="#vim" aria-hidden="true">
+			<span class="octicon octicon-link"></span>
+		</a>
+		VIM
+	</h3>
+
+	<p>
+		<a href="imag/1/vim.png" target="_blank">
+			<img src="imag/1/vim.png" alt="vim" style="max-width:100%;"></a>
+	</p>
+
+	<p>
+		我一般用
+		<code>vim</code>
+		来查看代码,Tlist,ctags,配合vim来用查看代码很方便的.
+	</p>
+
+	<p>
+		我现在除了用PS,很少用windows了,QQ基本上就没用了,我平时就用chrome看看网站,sublime写写代码.所以这个系统我还是很满意的.
+	</p>
+</article>
+$main_article_end
